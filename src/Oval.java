@@ -15,8 +15,8 @@ public class Oval extends SimpleShape
     public Oval()
     {
         super();
-        width = 50;
-        height = 30;
+        width = 45;
+        height = 50;
     }
     
     /**

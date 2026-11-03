@@ -23,7 +23,7 @@ public class TestShapes {
 		Triangle t = new Triangle();
 		t.makeVisible();
 		t.slowMoveVertical(50);
-		t.changeColor("green");
+		t.changeColor("blue");
 		t.changeSize(200, 50);
 		t.slowMoveDiagonal(100, 1, -1);
 	}
